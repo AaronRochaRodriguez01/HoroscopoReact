@@ -1,6 +1,6 @@
 import React from "react";
 import { useState } from "react";
-import "./formHoroscopo.css";
+import "./FormHoroscopo.css";
 
 function FormHoroscopo() {
   const dataHoroscopo = [
