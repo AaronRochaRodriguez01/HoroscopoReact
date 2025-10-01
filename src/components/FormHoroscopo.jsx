@@ -136,7 +136,6 @@ function FormHoroscopo() {
         </h1>
 
         <div className="flex flex-col md:flex-row gap-10 items-start">
-          {/* FORMULARIO */}
           <form
             className="bg-white/5 backdrop-blur-xl border border-yellow-400/30 p-6 rounded-2xl shadow-lg w-80 text-white"
             onSubmit={(e) => e.preventDefault()}
